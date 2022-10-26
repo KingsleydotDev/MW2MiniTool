@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MW2 Fov Changer", "MW2 Fov Changer\MW2 Fov Changer.csproj", "{18A4BA86-3B1A-413D-AE9B-C0888962ACC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18A4BA86-3B1A-413D-AE9B-C0888962ACC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18A4BA86-3B1A-413D-AE9B-C0888962ACC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18A4BA86-3B1A-413D-AE9B-C0888962ACC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18A4BA86-3B1A-413D-AE9B-C0888962ACC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3336A2DD-C436-41A8-9ECA-7FA02A306EC6}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\MW2 Fov Changer\MW2 Fov Changer\bin\Debug\MW2 Fov Changer.exe.config
+C:\Users\USER\source\repos\MW2 Fov Changer\MW2 Fov Changer\bin\Debug\MW2 Fov Changer.exe
+C:\Users\USER\source\repos\MW2 Fov Changer\MW2 Fov Changer\bin\Debug\MW2 Fov Changer.pdb
+C:\Users\USER\source\repos\MW2 Fov Changer\MW2 Fov Changer\bin\Debug\Memory.xml
+C:\Users\USER\source\repos\MW2 Fov Changer\MW2 Fov Changer\obj\Debug\MW2 Fov Changer.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\MW2 Fov Changer\MW2 Fov Changer\obj\Debug\MW2_Fov_Changer.Form1.resources
+C:\Users\USER\source\repos\MW2 Fov Changer\MW2 Fov Changer\obj\Debug\MW2_Fov_Changer.Properties.Resources.resources
+C:\Users\USER\source\repos\MW2 Fov Changer\MW2 Fov Changer\obj\Debug\MW2 Fov Changer.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\MW2 Fov Changer\MW2 Fov Changer\obj\Debug\MW2 Fov Changer.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\MW2 Fov Changer\MW2 Fov Changer\obj\Debug\MW2 Fov Changer.csproj.CopyComplete
+C:\Users\USER\source\repos\MW2 Fov Changer\MW2 Fov Changer\obj\Debug\MW2 Fov Changer.exe
+C:\Users\USER\source\repos\MW2 Fov Changer\MW2 Fov Changer\obj\Debug\MW2 Fov Changer.pdb
+C:\Users\USER\source\repos\MW2 Fov Changer\MW2 Fov Changer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\USER\source\repos\MW2 Fov Changer\MW2 Fov Changer\obj\Debug\MW2 Fov Changer.csproj.Fody.CopyLocal.cache
