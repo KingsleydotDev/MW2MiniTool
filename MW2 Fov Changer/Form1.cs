@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -132,9 +132,9 @@ namespace MW2_Fov_Changer
         {
             try
             {
-                if (m.ReadInt("0x063815AC").ToString() != fpsVal.Text)
+                if (m.ReadInt("0x638152C").ToString() != fpsVal.Text) // if current FPS val does not equal target, then change FPS to target
                 {
-                    m.WriteMemory("0x063815AC", "int", fpsVal.Text);
+                    m.WriteMemory("0x638152C", "int", fpsVal.Text);
                 }
 
             }
@@ -150,9 +150,9 @@ namespace MW2_Fov_Changer
         {
             try
             {
-                if (m.ReadInt("063932AC").ToString() != fovVal.Text)
+                if (m.ReadInt("0x6395320").ToString() != fovVal.Text) // if current OFV val does not equal target, then change FOV to target
                 {
-                    m.WriteMemory("063932AC", "float", fovVal.Text);
+                    m.WriteMemory("0x6395320", "float", fovVal.Text);
                 }
             }
             catch
@@ -177,7 +177,5 @@ namespace MW2_Fov_Changer
                 Fov.Stop();
             }
         }
-
-
     }
 }
